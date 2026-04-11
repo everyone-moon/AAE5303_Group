@@ -27,12 +27,11 @@ We named it "VisLangFly" because it intuitively integrates the three core elemen
 - **Name:** Shou Zhihuai
 - **Brief Introduction:** Michael has expertise in data analysis and machine learning. He is responsible for algorithm design and performance optimization.
 - **(individual) Assignment 1:** https://github.com/SOZHAA-1/PolyU-AAE5303-assignment-1-template/blob/main/README.md
-- **(individual) Assignment 2:** https://github.com/SOZHAA-1/AAE5303_assignment2_orbslam3_demo-/blob/main/leaderboard/submission_template.json
-
+- **(individual) Assignment 2:** https://github.com/SOZHAA-1/AAE5303_assignment2_orbslam3_demo-/blob/main/README.md
 ## Group Projects
 - **(group) Final project:** https://github.com/yourgroup/final-project
 - **VO:** [https://github.com/yourgroup/vo](https://github.com/everyone-moon/AAE5303_ORB_SLAM3_GROUP_INFO_VisLangFly)
-- **Opensplating:** https://github.com/yourgroup/opensplating
+- **Opensplating:** https://github.com/SOZHAA-1/AAE5303_VisLangFly_project_3D-reconstruction
 - **U-net:** https://github.com/yourgroup/u-net
 
 Up to 3 members~
